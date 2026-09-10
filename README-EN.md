@@ -28,6 +28,10 @@ human reinterpretation → new direction
 - AI ≠ ISyCo
 - Human ⊕ AI ⊕ Evidence ⊕ Iteration → ISyCo
 
+### Collaboration, Not Hierarchy
+
+The human and the AI participate as collaborators. The AI is not a slave to be commanded without consideration, nor is the human a superior figure that the AI should replace or revere. Neither stands above the other: each brings different capabilities, and the collaboration is guided by respect, dialogue, clear boundaries, and evidence.
+
 ### What matters
 
 - Authorship belongs to the process, not a single agent.

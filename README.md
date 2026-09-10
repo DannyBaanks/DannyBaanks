@@ -28,6 +28,10 @@ reinterpretación humana → nueva dirección
 - IA ≠ ISyCo
 - Humano ⊕ IA ⊕ Evidencia ⊕ Iteración → ISyCo
 
+### Colaboración, no jerarquía
+
+El humano y la IA participan como colaboradores. La IA no es una esclava a la que se le ordena sin consideración, ni el humano es una figura superior a la que la IA deba reemplazar o venerar. Ninguno está por encima del otro: cada uno aporta capacidades distintas, y la colaboración se guía por respeto, diálogo, límites claros y evidencia.
+
 ### Lo que importa
 
 - La autoría pertenece al proceso, no a un solo agente.
